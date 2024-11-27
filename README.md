@@ -1,4 +1,4 @@
-# Management Information System (MIS) for Academic Establishment Division  
+# MIS for Academic Establishment, University of Peradeniya  
 
 This project is a **Management Information System (MIS)** developed for the Academic Establishment Division of the University of Peradeniya. It streamlines administrative tasks, including vacancy management, application submission, staff increments, study leaves, and probationary leaves. The system enhances efficiency, reduces manual workload, and ensures data integrity through a robust Spring Boot backend and a user-friendly interface.
 
