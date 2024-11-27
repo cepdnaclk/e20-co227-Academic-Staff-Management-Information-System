@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e20-co227-Academic-Staff-Management-Information-System
+title: MIS for Academic Establishment, University of Peradeniya
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# MIS for Academic Establishment, University of Peradeniya
 
 ---
 
@@ -20,9 +20,10 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/20/049, Chanuka B.D.K., [email](mailto:e20049@eng.pdn.ac.lk)
+-  E/20/093, Bhashitha D.M.B., [email](mailto:e20093@eng.pdn.ac.lk)
+-  E/20/244, Malshan P.G.P., [email](mailto:e20244@eng.pdn.ac.lk)
+-  E/20/271, Nirmani K.G.H., [email](mailto:e20271@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -33,7 +34,24 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+### Real-World Problem  
+Managing academic processes such as vacancy announcements, application submissions, staff increments, and leave approvals in large institutions like the University of Peradeniya involves significant manual effort. These processes often rely on paper-based systems or fragmented digital tools, leading to inefficiencies, delays, data inconsistencies, and difficulty in tracking records over time. This lack of a centralized system creates challenges in maintaining transparency, ensuring rule compliance, and providing timely updates to stakeholders.  
+
+### Solution  
+This project presents a **Management Information System (MIS)** designed to digitize and streamline the workflows of the Academic Establishment Division. The system integrates key functionalities such as:  
+- Automated management of vacancies and applications with rule-based validations.  
+- Centralized handling of staff-related processes, including increments, study leaves, and probationary leaves.  
+- A secure backend powered by Spring Boot to ensure data integrity and seamless operations.  
+- A user-friendly interface for efficient data input, tracking, and reporting.  
+
+### Impact  
+The MIS significantly reduces the administrative burden, enabling the division to focus on strategic tasks. By automating routine processes, it:  
+- Improves operational efficiency and reduces turnaround times.  
+- Enhances data accuracy and accessibility.  
+- Promotes transparency in decision-making and ensures compliance with institutional rules.  
+- Provides a scalable and sustainable solution that adapts to the division's evolving needs.  
+
+This project not only addresses immediate challenges but also lays the foundation for future digital transformation within academic administration.  
 
 ## Other Sub Topics
 
