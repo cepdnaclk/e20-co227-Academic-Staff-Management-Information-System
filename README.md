@@ -22,10 +22,10 @@ This project is a **Management Information System (MIS)** developed for the Acad
 ---
 
 ## Team Members  
-- **[Chanuka B.D.K.](mailto:e20049@eng.pdn.ac.lk)** – Developer  
-- **[Bhashitha D.M.B.](mailto:e20093@eng.pdn.ac.lk)** – Developer  
-- **[Malshan P.G.P.](mailto:e20244@eng.pdn.ac.lk)** – Developer  
-- **[Nirmani K.G.H.](mailto:e20271@eng.pdn.ac.lk)** – Developer  
+- **[Chanuka B.D.K.](mailto:e20049@eng.pdn.ac.lk)** 
+- **[Bhashitha D.M.B.](mailto:e20093@eng.pdn.ac.lk)** 
+- **[Malshan P.G.P.](mailto:e20244@eng.pdn.ac.lk)**
+- **[Nirmani K.G.H.](mailto:e20271@eng.pdn.ac.lk)**
 
 ## Supervisor  
 - **[Ms. Yasodha Vimukthi](mailto:yasodhav@eng.pdn.ac.lk)**  
