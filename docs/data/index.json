@@ -14,7 +14,7 @@
             "name": "P.G.P. Malshan",
             "email": "e20244@eng.pdn.ac.lk",
             "eNumber": "E/20/244"
-        }
+        },
         {
             "name": "K.G.H.Nirmani",
             "email": "e20271@eng.pdn.ac.lk",
@@ -27,5 +27,5 @@
             "email": "yasodhav@eng.pdn.ac.lk"
         }
     ],
-    "tags": ["Web", "MIS"]
+    "tags": []
 }
