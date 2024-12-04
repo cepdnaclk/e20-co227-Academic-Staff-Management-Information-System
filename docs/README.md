@@ -21,7 +21,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Team
 -  E/20/049, Chanuka B.D.K., [email](mailto:e20049@eng.pdn.ac.lk)
--  E/20/093, Bhashitha D.M.B., [email](mailto:e20093@eng.pdn.ac.lk)
+-  E/20/093, Edirisooriya D.M.B., [email](mailto:e20093@eng.pdn.ac.lk)
 -  E/20/244, Malshan P.G.P., [email](mailto:e20244@eng.pdn.ac.lk)
 -  E/20/271, Nirmani K.G.H., [email](mailto:e20271@eng.pdn.ac.lk)
 
